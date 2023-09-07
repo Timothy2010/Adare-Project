@@ -1,0 +1,53 @@
+.yatch{
+    /* background-color: blue; */
+    height: 118px;
+    width: 1024px;
+}
+.yatch2{
+    background-color:  rgba(0, 0, 0, 0.294);
+    height: 40px;
+    width: 1024px;
+}
+.yatch3{
+    /* background-color: green; */
+    height: 400px;
+    width: 1024px;
+}
+.yatch4{
+    background-color: orange;
+    height: 500px;
+    width: 1024px;
+}
+.yatch5{
+    background-color: rgba(0, 0, 0, 0.298);
+    height: 40px;
+    width: 1024px;
+    font-size: 20px;
+    color: azure;
+}
+.body{
+    background-image: url(background-adare-restaurant.jpg);
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+nav a{
+    padding: 0px 10px;
+}
+nav{
+    padding-top: 10px;
+}
+.jeff{
+    color: azure;
+    text-decoration: underline;
+    font-size: 30px;
+}
+.der{
+    color: azure;
+    font-size: 30px;
+}
+.derf{
+    color: azure;
+    font-size: 50px;
+}
